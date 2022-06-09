@@ -51,7 +51,7 @@
     },
     {
       "name": "flutter_dropzone_platform_interface",
-      "rootUri": "file:///D:/git/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_dropzone_platform_interface-2.0.5",
+      "rootUri": "file:///D:/git/flutter/.pub-cache/git/flutter_dropzone_platform_interface-cb5587587a3e44e5741e16df8779411a5d125335/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -170,7 +170,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-06-08T10:00:21.881513Z",
+  "generated": "2022-06-09T09:19:30.058244Z",
   "generator": "pub",
   "generatorVersion": "2.17.1"
 }

@@ -58,9 +58,11 @@ packages:
   flutter_dropzone_platform_interface:
     dependency: "direct main"
     description:
-      name: flutter_dropzone_platform_interface
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: cb5587587a3e44e5741e16df8779411a5d125335
+      url: "https://github.com/huanghui1998hhh/flutter_dropzone_platform_interface.git"
+    source: git
     version: "2.0.5"
   flutter_lints:
     dependency: "direct dev"
