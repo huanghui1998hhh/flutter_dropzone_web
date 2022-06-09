@@ -1,7 +1,3 @@
-flutter_dropzone_platform_interface
-2.12
-file:///D:/git/flutter/.pub-cache/git/flutter_dropzone_platform_interface-cb5587587a3e44e5741e16df8779411a5d125335/
-file:///D:/git/flutter/.pub-cache/git/flutter_dropzone_platform_interface-cb5587587a3e44e5741e16df8779411a5d125335/lib/
 async
 2.12
 file:///D:/git/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/
@@ -30,6 +26,10 @@ fake_async
 2.12
 file:///D:/git/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.0/
 file:///D:/git/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.0/lib/
+flutter_dropzone_platform_interface
+2.12
+file:///D:/git/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_dropzone_platform_interface-2.0.5/
+file:///D:/git/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_dropzone_platform_interface-2.0.5/lib/
 flutter_lints
 2.12
 file:///D:/git/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4/

@@ -13,9 +13,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
 
-  flutter_dropzone_platform_interface: 
-    git:
-      url: https://github.com/huanghui1998hhh/flutter_dropzone_platform_interface.git
+  flutter_dropzone_platform_interface: ^2.0.5
   js: ^0.6.3
 
 dev_dependencies:
